@@ -1,0 +1,107 @@
+body {
+    background-color: background-color: #F0F8FF;
+    margin: 0 auto;
+    text-align: center;
+}
+h1 {
+    margin: 0 auto 0 auto;
+    width: 100%;
+    padding-top: 50px;
+    font-family: 'Ms Madi', cursive;
+}
+h2 {
+    margin: 0 auto 0 auto;
+    width: 100%;
+    font-family: 'Ms Madi', cursive;
+}
+.top-container {
+   margin: 0 auto;
+   background-color: white;
+   background-color: #F0F8FF;
+}
+.middle-container {
+    background-color: #F0F8FF;
+    width: 100%;
+    margin: 0 auto 0 auto;
+
+}
+.profile {
+    background-color: #F0F8FF;
+    margin: 0 auto 0 auto;
+    width: 100%;
+}
+.myphoto {
+    height: 350px;
+    width: 350px;
+    background-color: #F0F8FF;
+    padding-top: 20px;
+    position: absolute;
+    left: 40%;
+}
+hr {
+    background-color: #F0F8FF;
+    margin: 0 0 0 0;
+}
+.honor {
+    padding-top: 400px;
+    font-size: 2.5rem;
+    font-family: 'Arial';
+}
+.honor2 {
+    font-family: 'Arial';
+    margin: 0 0 0 0;
+    padding-top: 20px;
+}
+.skillnam {
+    padding-top: 40px;
+    font-size: 2.5rem;
+    font-family: 'Ms Madi', cursive;
+}
+.skills {
+    background-color: #F0F8FF;
+    width: 100%;
+    margin: 0 auto 0 auto;
+}
+.skill-row {
+    background-color: #F0F8FF;
+    width: 100%;
+    margin: 0 auto 0 auto;
+}
+.tablet {
+     margin: 0 auto 0 auto;
+     position: relative;
+     left: 10px;
+     padding-bottom: 10px;
+}
+.bottom-container {
+    background-color: #F0F8FF;
+    width: 100%;
+    margin: 0 auto 0 auto;
+}
+.topcld {
+    position: absolute;
+    margin-top: 0px;
+    margin-bottom: 20px;
+    left: 600px;
+}
+.botcld {
+    position: absolute;
+    margin-top: 20px;
+    margin-bottom: 0px;
+    left: 200px;
+
+}
+.persinf {
+    background-color: #F0F8FF;
+    width: 100%;
+    margin: 0 auto 0 auto;
+}
+.contact-me {
+    background-color: #F0F8FF;
+    width: 100%;
+    margin: 0 auto 0 auto;
+}
+.footer-link {
+    background-color: #F0F8FF;
+    margin: 0 auto 0 auto;
+}
